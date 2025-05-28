@@ -119,7 +119,7 @@
 ### ▶️ Watch Setup Video on Telegram
 
 <p align="center">
-  <a href="https://t.me/spidy_bots/">
+  <a href="https://t.me/spidy_bots/17">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/telegram.svg" width="250" alt="Watch video" />
   </a>
 </p>
